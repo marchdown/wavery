@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RCComposedAVURL</key>
+	<string>file:///var/mobile/Media/Recordings/20150827%20000715.m4a</string>
+	<key>RCComposedWaveformURL</key>
+	<string>file:///var/mobile/Media/Recordings/20150827%20000715.waveform</string>
+	<key>RCDecomposedFragments</key>
+	<array>
+		<dict>
+			<key>RCAVOutputURL</key>
+			<string>file:///var/mobile/Media/Recordings/20150827%20000715.composition/fragments/0A6E38F7-1E17-4F9F-9E30-195EFDB4539F.m4a</string>
+			<key>RCContentDuration</key>
+			<real>3217.310476190476</real>
+			<key>RCTimeRangeInComposition.beginTime</key>
+			<real>0.0</real>
+			<key>RCTimeRangeInComposition.endTime</key>
+			<real>3217.310476190476</real>
+			<key>RCTimeRangeInContentToUse.beginTime</key>
+			<real>-1.7976931348623157e+308</real>
+			<key>RCTimeRangeInContentToUse.endTime</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+	</array>
+	<key>RCSavedRecordingURI</key>
+	<string>x-coredata://1183415B-52BA-43EC-917A-1987C97D2306/Recording/p314</string>
+</dict>
+</plist>

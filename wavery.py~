@@ -1,0 +1,6 @@
+import pylab as P
+import pyplot as plt
+import matplotlib as mpl
+
+def main():
+  print "oh hi"

@@ -1,0 +1,34 @@
+* problem
+: rejiggle wave files algorithmically and make music.
+
+** idea 
+:cut a long recording into pieces, reckon some abstrac data from these pieces, and arrange them according to that data.
+
+*** implementation: take
+ some measure of a wavelet (avg amp, median amp, fft'd dominant frequency, )
+
+
+list of pairs (compositional metatdata, wave data), take permutations.
+
+* lispy outline
+
+
+(defn mutate (sqq)
+ (permutation sqq))
+
+(mutate sqq)
+(play seq)
+
+* how to qxtract compositional features:
+ -  shapes in both amp and freq domains. geenrate simple shapes and comb with a kernel.
+ - reduce dimensionality and classify with e.g pfd of logistic regression.
+ - freq pattrns that correspond to recognizable timbres
+ - count clicks: an amplitudinal feature
+
+
+* generate
+ - sequences of clecks and beeps
+ - permutaions of sequences of short sound bytes
+ - timbral compositions
+ - polyrhythmic structures
+ - 
